@@ -1,0 +1,5 @@
+{
+  "serviceUrl": "http://app-dev.trueautomation.io",
+  "projectName": "ta-cloud-automation",
+  "env": "dev"
+}
